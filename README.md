@@ -5,7 +5,7 @@
 
 **Language:** R
 
-The objective is to find clusters in the customers and finding the best model to predict customer churn. Then we will be doing market basket analysis to find intersting relationships with customer information. Specifically, are there any rules or characteristics to target to lessen customer churn.
+The objective is to find clusters in the customers and finding the best model to predict customer churn. Then we will be doing market basket analysis to find relationships within customer information. More specifically, are there any rules or characteristics to target to lessen customer churn?
 
 #### Procedure:
 - Clustering
